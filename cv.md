@@ -8,6 +8,5 @@ My goal is to become a IOS developer
 Skills:
 Code examples:
 Experience:
-Belarusian State Academy of Communications
 Education: High(Telecommunications Engineer)
 Language: English B2
